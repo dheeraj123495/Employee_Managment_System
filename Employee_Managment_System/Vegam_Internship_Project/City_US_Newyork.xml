@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cities>
+	<City>
+		<CityId>Islip</CityId>
+		<CityName>Islip</CityName>
+	</City>
+	<City>
+		<CityId>Hempstead town</CityId>
+		<CityName>Hempstead town</CityName>
+	</City>
+	<City>
+		<CityId>Brookhaven</CityId>
+		<CityName>Brookhaven</CityName>
+	</City>
+</Cities>

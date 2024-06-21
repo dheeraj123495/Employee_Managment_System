@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Company.master.cs" Inherits="Vegam_Internship_Project.Company" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style>
+        body {
+            margin: 0%;
+            padding: 0%;
+        }
+
+        #heading {
+            font-size: 50px;
+            width: 100%;
+            background-color: cornflowerblue;
+            height: 75px;
+            text-align: center;
+            padding-top: 15px;
+            margin: 0%;
+        }
+    </style>
+    <script>
+
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h1 id="heading">Welcome to Our Webpage
+            </h1>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder> 
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+            </asp:ContentPlaceHolder>  
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server">
+            </asp:ContentPlaceHolder>   
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder5" runat="server">
+            </asp:ContentPlaceHolder>
+
+
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Countries>
+	<Country>
+		<CountryId>NewYork</CountryId>
+		<CountryName>NewYork</CountryName>
+	</Country>
+	<Country>
+		<CountryId>LosVegas</CountryId>
+		<CountryName>LosVegas</CountryName>
+	</Country>
+	<Country>
+		<CountryId>Miami</CountryId>
+		<CountryName>Miami</CountryName>
+	</Country>
+</Countries>

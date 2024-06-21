@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cities>
+	<City>
+		<CityId>Hubli</CityId>
+		<CityName>Hubli</CityName>
+	</City>
+	<City>
+		<CityId>Dharwad</CityId>
+		<CityName>Dharwad</CityName>
+	</City>
+	<City>
+		<CityId>Gadag</CityId>
+		<CityName>Gadag</CityName>
+	</City>
+</Cities>

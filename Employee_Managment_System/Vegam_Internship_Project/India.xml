@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Countries>
+	<Country>
+		<CountryId>Karnataka</CountryId>
+		<CountryName>Karnataka</CountryName>
+	</Country>
+	<Country>
+		<CountryId>Goa</CountryId>
+		<CountryName>Goa</CountryName>
+	</Country>
+	<Country>
+		<CountryId>Maharastra</CountryId>
+		<CountryName>Maharastra</CountryName>
+	</Country>
+</Countries>

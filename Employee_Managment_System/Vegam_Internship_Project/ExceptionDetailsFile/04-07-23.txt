@@ -1,0 +1,168 @@
+-----------Exception Details on  7/4/2023 12:28:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/4/2023 12:28:10 PM
+
+Error Line No : line 38
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: https://localhost:44381/LoginPage.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/4/2023 1:23:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/4/2023 1:23:42 PM
+
+Error Line No : ine 193
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Unable to cast object of type 'System.Byte[]' to type 'System.IConvertible'.
+
+ Error Page Url: https://localhost:44381/UpdateUserProfile.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/4/2023 1:29:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/4/2023 1:29:23 PM
+
+Error Line No : ine 193
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Unable to cast object of type 'System.Byte[]' to type 'System.IConvertible'.
+
+ Error Page Url: https://localhost:44381/UpdateUserProfile.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/4/2023 3:41:15 PM-------------
+---------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/4/2023 3:41:15 PM
+
+Error Line No : line 38
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: https://localhost:44381/LoginPage.aspx
+
+User Host IP: 
+
+
+--------------------------*End*-----------------------------
+
+
+
+-----------Exception Details on  7/4/2023 3:41:34 PM-------------
+---------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/4/2023 3:41:34 PM
+
+Error Line No : line 38
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: https://localhost:44381/LoginPage.aspx
+
+User Host IP: 
+
+
+--------------------------*End*-----------------------------
+
+
+
+-----------Exception Details on  7/4/2023 3:41:44 PM-------------
+---------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/4/2023 3:41:44 PM
+
+Error Line No : line 38
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: https://localhost:44381/LoginPage.aspx
+
+User Host IP: 
+
+
+--------------------------*End*-----------------------------
+
+
+
+-----------Exception Details on  7/4/2023 4:10:44 PM-------------
+---------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/4/2023 4:10:44 PM
+
+Error Line No : line 49
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: https://localhost:44381/LoginPage.aspx
+
+User Host IP: 
+
+
+--------------------------*End*-----------------------------
+
+
+
